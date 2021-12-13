@@ -1,0 +1,36 @@
+
+/* start navbar*/
+
+.mainmenu-area .nav a{
+    text-decoration: none;
+}
+
+.nav{
+    display: inline-block;
+}
+
+
+/*start slider*/
+
+.block-slider img{
+    width: 895px;
+    height: 800px;
+}
+
+.caption.title{
+    padding-left:30px;
+    font-size: 30px;
+}
+.caption.subtitle{
+    padding-left:30px;
+    font-size: 20px;
+}
+.caption.button-radius{
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+
+
